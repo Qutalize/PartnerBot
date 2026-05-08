@@ -192,5 +192,5 @@ Phase 3: Unit-2 AutoOrderMock ─┐
 | --- | --- |
 | **阿部** | SetUp＋Unit① |
 | **k-kanke** | Unit② |
-| **Quta** | Unit③ |
+| **Qutalize** | Unit③ |
 | **tfull** | SetUp＋Unit④ |
